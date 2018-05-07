@@ -12,5 +12,5 @@ The bucket came from the local super market bakery, it is a 3 gallon bucket that
 
 The OnShape project is located [here](https://cad.onshape.com/documents/ca79b2b8f1bc36a8b472907d/w/5a8ed990cfd5acc257062838/e/974068277cd30dcdeee1d4db)
 
-![alt text](https://raw.githubusercontent.com/MaslowCommunityGarden/Bucket-Stand-/master/IMG_2873.JPG)
+
 
