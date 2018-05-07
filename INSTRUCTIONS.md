@@ -1,7 +1,8 @@
-Edit this file to add assembly instructions
+## Bucket Stand Parts.svg
+Can brought into MakerCam for tool paths at 96 dpi. 
 
-You can find instructions on how to edit this page on the community garden meta page instructions tab [here](http://maslowcommunitygarden.org/Website.html)
+## Bucket Stand Assembled Drawing.dxf
+DXF export from OnShape
 
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+## Bucket Stand Parts for SVG conversion.dxf
+DXF export from OnShape of individual parts. If not using OnShape, this is probably the best place to start if you need to modify the size. 
