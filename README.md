@@ -16,3 +16,5 @@ The OnShape project is located [here](https://cad.onshape.com/documents/ca79b2b8
 ![alt text](https://raw.githubusercontent.com/MaslowCommunityGarden/Bucket-Stand-/master/IMG_2873.jpg)
 
 ![alt text](https://raw.githubusercontent.com/MaslowCommunityGarden/Bucket-Stand-/master/IMG_2876.jpg)
+
+![alt text](https://raw.githubusercontent.com/MaslowCommunityGarden/Bucket-Stand-/master/Bucket%20Stand%20Drawing.jpg)
