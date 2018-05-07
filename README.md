@@ -3,10 +3,10 @@
 Stand that holds a bucket or flower pot or anything else that is about 10.5 inches and tapered.
 
 I originally made this hold a bucket with poultry water nipples in the bottom to water my chickens. Once it was made the Maslow community helped me see many other uses for it: 
-* Bucket to hold your favorite libation on ice (beer, soda, water, you name it...)  
-* Flower pots  
-* Throw some small casters on it (now you got wheels baby!)  
-* Edit this page and add more!  
+ * Bucket to hold your favorite libation on ice (beer, soda, water, you name it...)  
+ * Flower pots  
+ * Throw some small casters on it (now you got wheels baby!)  
+ * Edit this page and add more!  
 
 The bucket came from the local super market bakery, it is a 3 gallon bucket that originally held frosting. 
 
